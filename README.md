@@ -1,4 +1,7 @@
 # BirdMC_original
+分割图片制作MC地图画的工具。<br/>
+Divide any picture into small square ones, which are 128px * 128px. This is made for preparing Minecraft maps of pic.
+
 Notice: 作者没有后续更新打算，但是在此提供原型代码。欢迎改造！<br/>
 简介：此工具能将图片分割成相邻的正方形图片，默认边长128px（契合MC地图大小），可按需更改。<br/>
 使用介绍视频：https://www.bilibili.com/video/BV1cP4y1N7p3/
